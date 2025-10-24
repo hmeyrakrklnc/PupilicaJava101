@@ -39,3 +39,18 @@ bin/
 # Sistem dosyaları
 .DS_Store
 Thumbs.db
+# JetBrains IDEs settings
+.idea/
+*.iml
+
+# Class files and build artifacts
+/out/
+/target/
+/build/
+
+# Logs
+*.log
+
+# Dependency caches
+.gradle/
+/mvn_cache/
